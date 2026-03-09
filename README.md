@@ -1,6 +1,15 @@
-<img width="721" height="763" alt="Screenshot 2026-03-10 at 00 54 54" src="https://github.com/user-attachments/assets/248409b9-fc4a-4e43-8d58-ed8de456dbfc" /># Credit Risk & Default Prediction Dashboard
+# Credit Risk & Default Prediction Dashboard
 
 This project develops a machine learning model to classify borrowers into credit risk categories based on financial and behavioral characteristics. The goal is to identify key risk indicators and provide an interactive tool for assessing borrower credit risk.
+
+
+## Dashboard Preview
+
+The Streamlit application allows users to input borrower financial information and receive a predicted credit risk category along with model probability distribution.
+
+<img width="702" height="708" alt="Dashboard Snippet 1" src="https://github.com/user-attachments/assets/1053223e-e0e0-4160-948d-e31161e4812b" />
+<img width="702" height="575" alt="Dashboard Snippet 2" src="https://github.com/user-attachments/assets/f574c36d-c4cf-41dc-932d-ee005259799e" />
+
 
 
 ## Project Overview
