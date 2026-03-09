@@ -98,6 +98,7 @@ The model classifies borrowers into five risk segments:
 
 
 ## Dashboard Features
+https://credit-risk-prediction-dashboard-dqpmnk8sncm8xbvaipfx43.streamlit.app/
 
 The Streamlit dashboard allows users to:
 
